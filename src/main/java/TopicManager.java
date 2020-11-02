@@ -1,10 +1,7 @@
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
-public class TopicSomething {
+public class TopicManager {
 
     private TopicRepository topicRepository;
-
-    public void saveTopic
-
 }
